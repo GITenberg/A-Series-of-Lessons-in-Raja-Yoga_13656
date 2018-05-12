@@ -20,6 +20,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/d#a662
 description: This book is a collection of informational lessons on the basic principles
   of Raja Yoga.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13656#A-Series-of-Lessons-in-Raja-Yoga
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2004-10-06'
 gutenberg_type: Text
